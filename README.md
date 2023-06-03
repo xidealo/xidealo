@@ -16,15 +16,7 @@
 <br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/maxastin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://stackoverflow.com/users/11720338/maxastin">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack overflow Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/MaxAstin">
+  <a href="https://github.com/xidealo">
     <img src="https://komarev.com/ghpvc/?username=MaxAstin&style=for-the-badge&color=blue" alt="Profile views Badge"/>
   </a>
 </div>
