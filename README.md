@@ -1,5 +1,5 @@
 
- <img src="https://media.licdn.com/dms/image/C4D16AQGIIJNYCZWUNQ/profile-displaybackgroundimage-shrink_200_800/0/1652267731953?e=2147483647&v=beta&t=hoiJQsW_F3IhkDC9HE5r2c3_GGsL2ebt5896h5cMwg8" width="100%"/>
+ <img src="[https://media.licdn.com/dms/image/C4D16AQGIIJNYCZWUNQ/profile-displaybackgroundimage-shrink_200_800/0/1652267731953?e=2147483647&v=beta&t=hoiJQsW_F3IhkDC9HE5r2c3_GGsL2ebt5896h5cMwg8](https://vk.com/xidealo?z=photo48589095_457256885%2Falbum48589095_000%2Frev)" width="100%"/>
 
 
 <h1 align="center">Hello, I'm Mark Shavlovskij 
@@ -17,7 +17,7 @@
 
 <div id="badges" align="center">
   <a href="https://github.com/xidealo">
-    <img src="https://komarev.com/ghpvc/?username=MaxAstin&style=for-the-badge&color=blue" alt="Profile views Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=xidealo&style=for-the-badge&color=blue" alt="Profile views Badge"/>
   </a>
 </div>
 
