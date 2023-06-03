@@ -1,5 +1,5 @@
 
- <img src="https://sun9-33.userapi.com/impg/EdJFGnPRhKGRrq0LAZ7RVG8aiu0EM_GWTSKMfg/LkM8a5GnjwY.jpg?size=960x593&quality=96&sign=c59407c44f79c01fdc2841be8496e780&type=album" width="100%"/>
+<img src="https://sun9-33.userapi.com/impg/EdJFGnPRhKGRrq0LAZ7RVG8aiu0EM_GWTSKMfg/LkM8a5GnjwY.jpg?size=960x593&quality=96&sign=c59407c44f79c01fdc2841be8496e780&type=album" width="100%"/>
 
 
 <h1 align="center">Hello, I'm Mark Shavlovskij 
@@ -10,7 +10,6 @@
 
 - 🏎 &nbsp;I'm an `Android Developer`
 - 🍕 &nbsp;I'm working on my own Food Delivery [project](https://github.com/xidealo/PapaKarlo)
-- 👨‍🏫 &nbsp;I'm [mentoring](https://getmentor.dev/mentor/valentin-podkopaev-1744) and conducting mock interviews
 - 👨‍💻 &nbsp;I'm using `Kotlin` as primary language
 
 <br>
