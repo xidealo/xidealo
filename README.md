@@ -22,6 +22,11 @@
 
 <br>
 
+#### My own projects
+| Name    | Repository | Preview | Stores |
+| -------- | ------- | ------- | ------- |
+| **Food Delivery** | • Client app ([GitHub](https://github.com/xidealo/PapaKarlo)) <br> • Manager app ([GitHub](https://github.com/xidealo/FoodDeliveryAdmin)) <br> • Server-side app ([GitHub](https://github.com/MaxAstin/FoodDeliveryApi_v2)) | ![image](https://github.com/user-attachments/assets/75b2dcea-a1aa-4699-9d3a-4b66bd3a77d8) | <a href="https://play.google.com/store/apps/details?id=com.bunbeuaty.papakarlo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="GooglePlay" width="400px"/></a> <br> <a href="https://apps.apple.com/ru/app/%D0%BF%D0%B0%D0%BF%D0%B0-%D0%BA%D0%B0%D1%80%D0%BB%D0%BE/id6443966083"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" alt="AppStore" width="400px"/></a> |
+
 #### Languages 
  - <a href="https://kotlinlang.org/">Kotlin  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="Kotlin" height="12" /></a>  
  - <a href="https://www.java.com/">Java  <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="14" /></a>  
