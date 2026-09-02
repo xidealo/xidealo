@@ -8,9 +8,11 @@
 
 <br>
 
-- 🏎 &nbsp;I'm an `Android Developer`
-- 🍕 &nbsp;I'm working on my own Food Delivery [project](https://github.com/xidealo/PapaKarlo)
-- 👨‍💻 &nbsp;I'm using `Kotlin` as primary language
+- 🏎 &nbsp;I'm an `KMP Developer`
+- 🤖 &nbsp;I actively use `AI` as an engineering tool to accelerate development, learning, and decision-making
+- 🏝 &nbsp;I'm using `Kotlin` as primary language 
+- 🚀 &nbsp;I am deeply passionate about [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) as a transformative cross-platform technology
+- 📚 &nbsp;I mentor and conduct mock interviews to guide and support aspiring developers 
 
 <br>
 
