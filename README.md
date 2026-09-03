@@ -1,5 +1,4 @@
-
-<img width="100%" alt="-Ib8oB5vPOW3bOV1kFwqs8UTqen-8uuKkLkgmiPMW4qoXvKq_7BYwEHFAV_ucFznwwV87fDs5GjB60GwqbzJ74fc" src="https://github.com/user-attachments/assets/e284877d-d916-478c-b6d6-39293e019a04" />
+<img width="50%" alt="-Ib8oB5vPOW3bOV1kFwqs8UTqen-8uuKkLkgmiPMW4qoXvKq_7BYwEHFAV_ucFznwwV87fDs5GjB60GwqbzJ74fc" src="https://github.com/user-attachments/assets/e284877d-d916-478c-b6d6-39293e019a04" />
 
 <h1 align="center">Hello, I'm Mark Shavlovskij 
   <img src="https://www.pngplay.com/wp-content/uploads/9/Android-Transparent-Free-PNG.png" width="32"/>
