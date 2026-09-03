@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
-<img width="75%" alt="-Ib8oB5vPOW3bOV1kFwqs8UTqen-8uuKkLkgmiPMW4qoXvKq_7BYwEHFAV_ucFznwwV87fDs5GjB60GwqbzJ74fc" src="https://github.com/user-attachments/assets/e284877d-d916-478c-b6d6-39293e019a04" />
+<div align="center">
+  <img width="75%" alt="-Ib8oB5vPOW3bOV1kFwqs8UTqen-8uuKkLkgmiPMW4qoXvKq_7BYwEHFAV_ucFznwwV87fDs5GjB60GwqbzJ74fc" src="https://github.com/user-attachments/assets/e284877d-d916-478c-b6d6-39293e019a04" />
 </div>
 
 <h1 align="center">Hello, I'm Mark Shavlovskij 
